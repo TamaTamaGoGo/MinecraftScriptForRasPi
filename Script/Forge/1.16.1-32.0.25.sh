@@ -60,7 +60,7 @@ curl -X POST -H 'Content-Type: application/json' https://api.mojang.com/profiles
 echo "MINECRAFT_UUID="$MINECRAFT_UUID
 
 # run minecraft with all the right commandline options
-/opt/jdk/jdk1.8.0_211/bin/java \
+${dir}/jdk/jdk1.8.0_211/bin/java \
     -Xmn256M -Xmx${Xmx}M \
     -XX:+UseConcMarkSweepGC \
     -XX:+CMSIncrementalMode \
