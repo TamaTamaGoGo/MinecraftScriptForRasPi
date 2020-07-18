@@ -1,7 +1,9 @@
 # MinecraftForRasPi
 That’s sub Repository to MCRPi.
 
-Download Script and some core settings repository.
+Download Script and some core settings repository
+
+[![CodeFactor](https://www.codefactor.io/repository/github/tamatamagogo/minecraftscriptforraspi/badge)](https://www.codefactor.io/repository/github/tamatamagogo/minecraftscriptforraspi)
 
 # Thanks
  script to run minecraft on ARM linux.  for reference:
