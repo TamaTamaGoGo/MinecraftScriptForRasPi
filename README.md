@@ -15,4 +15,4 @@ Download Script and some core settings repository
 And thanks to rpiMike from Raspberry Pi Forum.
 
 # Change Log
-https://github.com/TamaTamaGoGo/MinecraftScriptForRasPi/blob/Legacy/ChangeLog.md#v10-beta
+https://github.com/TamaTamaGoGo/MinecraftScriptForRasPi/blob/Legacy/ChangeLog.md
