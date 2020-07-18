@@ -9,7 +9,7 @@
 
 #Dont change here!
 #Minecraft Info
-dir=pwd
+dir=$(pwd)
 forv=1.16.1
 forve=1.16
 forver=1.16.1-32.0.25
