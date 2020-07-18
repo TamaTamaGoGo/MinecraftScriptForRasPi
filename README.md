@@ -1,5 +1,5 @@
-# MinecraftForRasPi
-That’s sub Repository to MCRPi.
+# MinecraftScriptForRasPi
+This is sub Repository to MCRPi.
 
 Download Script and some core settings repository
 
@@ -13,3 +13,6 @@ Download Script and some core settings repository
    https://gist.github.com/rogerallen/91526c9c8be1a82881e0
 
 And thanks to rpiMike from Raspberry Pi Forum.
+
+# Change Log
+https://github.com/TamaTamaGoGo/MinecraftScriptForRasPi/blob/Legacy/ChangeLog.md
